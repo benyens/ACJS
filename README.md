@@ -100,5 +100,5 @@ El notebook incluye:
 ---
 
 ## Autor
-- **Benjamin Renzo Ferrada Larach** - *202273061-7*
+- **Benjamin Renzo Ferrada Larach**
 - Proyecto para la asignatura INF398.
