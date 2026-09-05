@@ -30,7 +30,7 @@ ProyectoIntroML/
 ---
 
 ## Requisitos y Entorno
-Proyecto desarrollado en **Python 3.12**.
+Proyecto desarrollado en **Python 3.12**, se tiene un requirementents.txt para las librerías.
 
 ### 1. Crear y activar entorno virtual
 
